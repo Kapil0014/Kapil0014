@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Kapil Kumar  
 
-<!--
-**Kapil0014/Kapil0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) Student  
+📍 Noida, India  
 
-Here are some ideas to get you started:
+💡 About Me  
+- Aspiring AI/ML Engineer  
+- Interested in Machine Learning, Deep Learning & Problem Solving  
+- Practicing Data Structures & Algorithms on LeetCode  
+- Building ML projects using Python  
+- Preparing for GATE  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technical Skills  
+- Python  
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow (basic)  
+- Machine Learning & Deep Learning  
+- Data Structures & Algorithms  
+- Git & GitHub  
+
+📌 Projects  
+- Flipkart Clone (HTML, CSS)  
+- Machine Learning projects (in progress)  
+
+🔗 Profiles  
+- LinkedIn: www.linkedin.com/in/kapil-kumar-2815b9295
+- LeetCode:https://leetcode.com/u/kapilverma14/
+
+📫 Contact  
+- Email: kkapil0014@gmail.com
