@@ -7,8 +7,7 @@
 - Aspiring AI/ML Engineer  
 - Interested in Machine Learning, Deep Learning & Problem Solving  
 - Practicing Data Structures & Algorithms on LeetCode  
-- Building ML projects using Python  
-- Preparing for GATE  
+- Building ML projects using Python   
 
 🛠 Technical Skills  
 - Python  
