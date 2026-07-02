@@ -22,7 +22,7 @@
 - Flipkart Clone (HTML, CSS)  
 - Machine Learning projects (in progress)
 - trustGuardAi
--cloudroots website
+- cloudroots website
 
 
 🔗 Profiles  
