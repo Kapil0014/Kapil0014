@@ -20,7 +20,10 @@
 
 📌 Projects  
 - Flipkart Clone (HTML, CSS)  
-- Machine Learning projects (in progress)  
+- Machine Learning projects (in progress)
+- trustGuardAi
+-cloudroots website
+
 
 🔗 Profiles  
 - LinkedIn: www.linkedin.com/in/kapil-kumar-2815b9295
