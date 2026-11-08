@@ -18,13 +18,6 @@
 - Data Structures & Algorithms  
 - Git & GitHub  
 
-📌 Projects  
-- Flipkart Clone (HTML, CSS)  
-- Machine Learning projects (in progress)
-- trustGuardAi
-- cloudroots website
-
-
 🔗 Profiles  
 - LinkedIn: www.linkedin.com/in/kapil-kumar-2815b9295
 - LeetCode:https://leetcode.com/u/kapilverma14/
